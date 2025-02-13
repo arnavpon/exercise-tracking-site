@@ -87081,7 +87081,7 @@ n=r/60
 A.eg(n)
 A.eg(B.c.iH(n))
 p.d=""+B.c.iH(n)+"m "+B.e.bg(r,60)+"s"
-p.a=p.a+(A.n(a.f)+" lbs. ("+q+") x"+o+" reps\n")},
+p.a=p.a+(B.c.a8(a.f,2)+" lbs. ("+q+") x"+o+" reps\n")},
 $S:210}
 A.auB.prototype={
 $3(a,b,c){return A.Qg(b,B.E0,c,new A.auA(),new A.D1().goO())},
